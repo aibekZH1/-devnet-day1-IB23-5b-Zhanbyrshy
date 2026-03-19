@@ -1,0 +1,42 @@
+{
+  "count": 6,
+  "items": [
+    {
+      "author": "Zhanbyrshy",
+      "id": 5007,
+      "isbn": "978-079238838b",
+      "title": "My DevNet Book 9238838b"
+    },
+    {
+      "author": "Zhanbyrshy",
+      "id": 7400,
+      "isbn": "978-1-01-437714-2",
+      "title": "Horizontal systematic secured line [9238838b]"
+    },
+    {
+      "author": "Zhanbyrshy",
+      "id": 7401,
+      "isbn": "978-0-8165-2194-4",
+      "title": "Optional neutral forecast [9238838b]"
+    },
+    {
+      "author": "Zhanbyrshy",
+      "id": 7402,
+      "isbn": "978-1-4893-4111-2",
+      "title": "Proactive reciprocal synergy [9238838b]"
+    },
+    {
+      "author": "Zhanbyrshy",
+      "id": 7403,
+      "isbn": "978-0-03-269111-7",
+      "title": "Business-focused reciprocal service-desk [9238838b]"
+    },
+    {
+      "author": "Zhanbyrshy",
+      "id": 7404,
+      "isbn": "978-0-474-73008-5",
+      "title": "Visionary hybrid approach [9238838b]"
+    }
+  ],
+  "status_code": 200
+}

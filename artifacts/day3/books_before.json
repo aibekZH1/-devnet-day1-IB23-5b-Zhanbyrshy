@@ -1,0 +1,31 @@
+{
+  "count": 5,
+  "items": [
+    {
+      "author": "Mark A. Sportack",
+      "id": 0,
+      "title": "IP Routing Fundamentals"
+    },
+    {
+      "author": "Stef Maruch Aahz Maruch",
+      "id": 1,
+      "title": "Python for Dummies"
+    },
+    {
+      "author": "Cisco Systems Inc.",
+      "id": 2,
+      "title": "Linux for Networkers"
+    },
+    {
+      "author": "Cisco Systems Inc.",
+      "id": 3,
+      "title": "NetAcad: 20 Years Of Online-Learning"
+    },
+    {
+      "author": "Zhanbyrshy",
+      "id": 5007,
+      "title": "My DevNet Book 9238838b"
+    }
+  ],
+  "status_code": 200
+}
