@@ -1,0 +1,17 @@
+{
+  "computed": {
+    "title_len": 18
+  },
+  "student": {
+    "group": "IB-23-5b",
+    "name": "Zhanbyrshy",
+    "token": "D1-IB-23-5b-07-9E20",
+    "token_hash8": "9238838b"
+  },
+  "todo": {
+    "completed": false,
+    "id": 1,
+    "title": "delectus aut autem",
+    "userId": 1
+  }
+}
