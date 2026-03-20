@@ -1,0 +1,2 @@
+CONTAINER ID                                                       IMAGE               COMMAND             CREATED             STATUS              PORTS                    NAMES
+49b73b1111e23a3e3fc78733bbf39842cca72cc9ee44177a7a41da3956ba444a   sampleapp:day4      "python /app.py"    2 minutes ago       Up 2 minutes        0.0.0.0:8080->8080/tcp   day4app

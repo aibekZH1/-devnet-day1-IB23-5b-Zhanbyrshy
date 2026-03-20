@@ -1,0 +1,45 @@
+{
+  "checks": {
+    "ansible_port_8081": false,
+    "docker_token_in_page": false,
+    "docker_tokenproof": true,
+    "jenkins_pipeline_has_stages": false,
+    "security_db_has_tables": false
+  },
+  "evidence_sha256": {
+    "ansible_hello": "",
+    "ansible_ping": "",
+    "ansible_playbook_install": "",
+    "buildapp_console": "",
+    "curl_apache_8081": "",
+    "db_tables": "",
+    "db_user_hash_sample": "",
+    "docker_build_log": "3e1f526e6c489d73cae730f59106e740a8c3369a47a9b6aa208b27468d6c9d65",
+    "docker_ps": "a20af2b9de3548bf38ff0fba90f4ea7e400ec02e49cd2cb079a7053eb2e77f2f",
+    "docker_sampleapp_curl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "docker_token_proof": "d137a05ad311216acf367531a8fd9bf10a09348dbc87f0734e784b709e389e6b",
+    "jenkins_docker_ps": "",
+    "jenkins_url": "",
+    "login_v1": "",
+    "login_v2": "",
+    "pipeline_console": "",
+    "pipeline_script": "",
+    "ports_conf_after": "",
+    "signup_v1": "",
+    "signup_v2": "",
+    "testapp_console": ""
+  },
+  "generated_utc": "2026-03-20T02:41:41.106988+00:00",
+  "run": {
+    "platform": "linux",
+    "python": "3.8.2"
+  },
+  "schema_version": "4.1",
+  "student": {
+    "group": "IB-23-5b",
+    "name": "Zhanbyrshy",
+    "token": "D1-IB-23-5b-07-9E20",
+    "token_hash8": "9238838b"
+  },
+  "validation_passed": false
+}

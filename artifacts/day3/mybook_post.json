@@ -1,5 +1,5 @@
 {
-  "api_key_sha256": "ff025647528e506793d01d8db9b23bd71b4b9db520e7ec63a23ada2e32399bee",
+  "api_key_sha256": "38c2da556bb6ee09361cc121786b064fdda9aa8e4825d22da442d1e094e21a66",
   "request": {
     "author": "Zhanbyrshy",
     "id": 5007,
@@ -7,9 +7,9 @@
     "title": "My DevNet Book 9238838b"
   },
   "response": {
-    "author": null,
-    "id": null,
-    "title": null
+    "author": "Zhanbyrshy",
+    "id": 5007,
+    "title": "My DevNet Book 9238838b"
   },
   "status_code": 200
 }

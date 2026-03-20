@@ -6,7 +6,7 @@
     "validation_errors": [],
     "validation_passed": true
   },
-  "generated_utc": "2026-03-19T01:15:38.270826+00:00",
+  "generated_utc": "2026-03-20T02:41:40.855288+00:00",
   "run": {
     "platform": "linux",
     "python": "3.8.2"
@@ -14,7 +14,7 @@
   "schema_version": "1.0",
   "student": {
     "group": "IB-23-5b",
-    "name": "Zhanbyrshy Aibek",
+    "name": "Zhanbyrshy",
     "token": "D1-IB-23-5b-07-9E20"
   }
 }

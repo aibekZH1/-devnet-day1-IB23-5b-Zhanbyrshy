@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 4,
   "items": [
     {
       "author": "Mark A. Sportack",
@@ -20,11 +20,6 @@
       "author": "Cisco Systems Inc.",
       "id": 3,
       "title": "NetAcad: 20 Years Of Online-Learning"
-    },
-    {
-      "author": "Zhanbyrshy",
-      "id": 5007,
-      "title": "My DevNet Book 9238838b"
     }
   ],
   "status_code": 200

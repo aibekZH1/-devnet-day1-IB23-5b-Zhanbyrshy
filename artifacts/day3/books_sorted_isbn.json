@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 4,
   "items": [
     {
       "author": "Cisco Systems Inc.",
@@ -24,12 +24,6 @@
       "id": 1,
       "isbn": "978-0471778646",
       "title": "Python for Dummies"
-    },
-    {
-      "author": "Zhanbyrshy",
-      "id": 5007,
-      "isbn": "978-079238838b",
-      "title": "My DevNet Book 9238838b"
     }
   ],
   "status_code": 200
