@@ -1,0 +1,19 @@
+Started by user admin
+Running in Durability level: MAX_SURVIVABILITY
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in /var/lib/jenkins/workspace/DevNet_Pipeline
+[Pipeline] {
+[Pipeline] stage (Build)
+[Pipeline] echo
+Building the application...
+[Pipeline] stage (Test)
+[Pipeline] echo
+Running unit tests...
+[Pipeline] stage (Deploy)
+[Pipeline] echo
+Deploying to staging environment...
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS
