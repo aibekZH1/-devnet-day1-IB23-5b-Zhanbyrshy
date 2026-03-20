@@ -1,0 +1,9 @@
+{
+    "response": {
+        "detail": "Bad credentials",
+        "errorCode": "TICKET_BAD_USER",
+        "message": "Invalid user credentials. Provide valid user credentials."
+    },
+    "version": "1.0"
+}
+

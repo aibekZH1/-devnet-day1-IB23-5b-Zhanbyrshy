@@ -1,0 +1,19 @@
+module ietf-interfaces {
+  yang-version 1.1;
+  namespace "urn:ietf:params:xml:ns:yang:ietf-interfaces";
+  prefix if;
+  import ietf-yang-types { prefix yang; }
+  organization "IETF NETMOD Working Group";
+  description "Initial revision.";
+  revision 2014-05-08 { description "Initial revision."; }
+  container interfaces {
+    list interface {
+      key "name";
+      leaf name { type string; }
+      leaf description { type string; }
+      leaf type { type identityref { base interface-type; } mandatory true; }
+      leaf enabled { type boolean; default "true"; }
+    }
+  }
+  identity interface-type { description "Base identity from which specific interface types are derived."; }
+}

@@ -1,0 +1,13 @@
+{
+    "schema_version": "5.0",
+    "student": {
+        "name": "Unknown",
+        "group": "Unknown",
+        "token_hash8": "8ea73cd9"
+    },
+    "checks": {
+        "yang_tree_ok": true,
+        "webex_room_hash_ok": true,
+        "pt_external_access_ok": true
+    }
+}

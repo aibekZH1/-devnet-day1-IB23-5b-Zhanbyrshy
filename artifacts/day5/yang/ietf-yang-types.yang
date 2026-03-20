@@ -1,0 +1,8 @@
+module ietf-yang-types {
+  namespace "urn:ietf:params:xml:ns:yang:ietf-yang-types";
+  prefix yang;
+  organization "IETF NETMOD (NETCONF Data Modeling Language) Working Group";
+  contact "WG Web: <http://tools.ietf.org/wg/netmod/>";
+  description "Common YANG Data Types.";
+  revision 2013-07-15 { description "Initial revision."; reference "RFC 6991"; }
+}
