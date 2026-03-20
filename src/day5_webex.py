@@ -35,7 +35,7 @@ def run_webex_lab():
     # В. Отправляем сообщение
     msg_body = {
         "roomId": room_id,
-        "text": f"Miras Akhmetov (Group IB-23-5b) completed Day 5 Lab. Token Hash: {HASH8}"
+        "text": f"Aibek Zhanbyrshy (Group IB-23-5b) completed Day 5 Lab. Token Hash: {HASH8}"
     }
     msg_res = requests.post("https://webexapis.com/v1/messages", headers=HEADERS, json=msg_body).json()
     with open("artifacts/day5/webex/message_post.json", "w") as f:
