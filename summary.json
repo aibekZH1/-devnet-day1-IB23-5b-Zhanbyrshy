@@ -1,13 +1,12 @@
 {
-    "schema_version": "5.0",
-    "student": {
-        "name": "Aibek Zhanbyrshy",
-        "group": "IB-23-5b",
-        "token_hash8": "c256e8ba"
-    },
-    "checks": {
-        "yang_tree_ok": true,
-        "webex_room_hash_ok": true,
-        "pt_external_access_ok": true
-    }
+  "schema_version": "5.0",
+  "student": {
+    "token_hash8": "8ea73cd9",
+    "name": "Aibek Zhanbyrshy",
+    "group": "IB-23-5b"
+  },
+  "checks": {
+    "yang_tree_ok": true,
+    "webex_room_hash_ok": true
+  }
 }

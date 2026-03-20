@@ -85,8 +85,8 @@ def main() -> int:
 
     out = ART / "summary.json"
     out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(json.dumps(summary, ensure_ascii=False, sort_keys=True, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps(summary, ensure_ascii=False, indent=2))
+    out.write_text(json.dumps(summary, ensure_ascii=True, sort_keys=True, indent=2) + "\n", encoding="utf-8")
+    print(json.dumps(summary, ensure_ascii=True, indent=2))
     return 0 if summary["validation_passed"] else 2
 
 if __name__ == "__main__":
