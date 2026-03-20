@@ -2,7 +2,7 @@
   "checks": {
     "ansible_port_8081": false,
     "docker_token_in_page": false,
-    "docker_tokenproof": true,
+    "docker_tokenproof": false,
     "jenkins_pipeline_has_stages": false,
     "security_db_has_tables": false
   },
@@ -22,14 +22,14 @@
     "jenkins_url": "",
     "login_v1": "",
     "login_v2": "",
-    "pipeline_console": "",
+    "pipeline_console": "f314e9db7997147adfc34948c85e81202067e51fd304eaee983aa146a2133a2b",
     "pipeline_script": "",
-    "ports_conf_after": "",
+    "ports_conf_after": "807f7aa21007d5b6b891faa6336eea508e53a1420659bc48ca9fab720fec5868",
     "signup_v1": "",
     "signup_v2": "",
     "testapp_console": ""
   },
-  "generated_utc": "2026-03-20T02:41:41.106988+00:00",
+  "generated_utc": "2026-03-20T16:07:45.396754+00:00",
   "run": {
     "platform": "linux",
     "python": "3.8.2"
@@ -37,9 +37,9 @@
   "schema_version": "4.1",
   "student": {
     "group": "IB-23-5b",
-    "name": "Zhanbyrshy",
-    "token": "D1-IB-23-5b-07-9E20",
-    "token_hash8": "9238838b"
+    "name": "Aibek Zhanbyrshy",
+    "token": "твой_токен_который_дает_хэш_8ea73cd9",
+    "token_hash8": "c256e8ba"
   },
   "validation_passed": false
 }
