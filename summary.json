@@ -7,6 +7,7 @@
   },
   "checks": {
     "yang_tree_ok": true,
-    "webex_room_hash_ok": true
+    "webex_room_hash_ok": true,
+    "pt_external_access_ok": true
   }
 }

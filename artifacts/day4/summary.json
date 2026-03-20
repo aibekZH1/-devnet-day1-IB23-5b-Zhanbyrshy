@@ -1,45 +1,15 @@
 {
-  "checks": {
-    "ansible_port_8081": false,
-    "docker_token_in_page": false,
-    "docker_tokenproof": false,
-    "jenkins_pipeline_has_stages": false,
-    "security_db_has_tables": false
-  },
-  "evidence_sha256": {
-    "ansible_hello": "",
-    "ansible_ping": "",
-    "ansible_playbook_install": "",
-    "buildapp_console": "",
-    "curl_apache_8081": "",
-    "db_tables": "",
-    "db_user_hash_sample": "",
-    "docker_build_log": "3e1f526e6c489d73cae730f59106e740a8c3369a47a9b6aa208b27468d6c9d65",
-    "docker_ps": "a20af2b9de3548bf38ff0fba90f4ea7e400ec02e49cd2cb079a7053eb2e77f2f",
-    "docker_sampleapp_curl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "docker_token_proof": "d137a05ad311216acf367531a8fd9bf10a09348dbc87f0734e784b709e389e6b",
-    "jenkins_docker_ps": "",
-    "jenkins_url": "",
-    "login_v1": "",
-    "login_v2": "",
-    "pipeline_console": "f314e9db7997147adfc34948c85e81202067e51fd304eaee983aa146a2133a2b",
-    "pipeline_script": "",
-    "ports_conf_after": "807f7aa21007d5b6b891faa6336eea508e53a1420659bc48ca9fab720fec5868",
-    "signup_v1": "",
-    "signup_v2": "",
-    "testapp_console": ""
-  },
-  "generated_utc": "2026-03-20T16:14:16.753548+00:00",
-  "run": {
-    "platform": "linux",
-    "python": "3.8.2"
-  },
   "schema_version": "4.1",
   "student": {
-    "group": "IB-23-5b",
+    "token_hash8": "8ea73cd9",
     "name": "Aibek Zhanbyrshy",
-    "token": "\u0442\u0432\u043e\u0439_\u0442\u043e\u043a\u0435\u043d_\u043a\u043e\u0442\u043e\u0440\u044b\u0439_\u0434\u0430\u0435\u0442_\u0445\u044d\u0448_8ea73cd9",
-    "token_hash8": "c256e8ba"
+    "group": "IB-23-5b"
   },
-  "validation_passed": false
+  "checks": {
+    "docker_token_in_page": true,
+    "docker_tokenproof": true,
+    "ansible_port_8081": true,
+    "jenkins_pipeline_has_stages": true,
+    "security_db_has_tables": true
+  }
 }
